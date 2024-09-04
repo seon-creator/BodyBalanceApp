@@ -10,5 +10,5 @@
 - myapplication: 앱 기능 코드 (블루투스 연결, 센서값 처리)
 
 ## Usage example video
-https://github.com/user-attachments/assets/96e5f0f1-b29a-4430-8d3e-8489758e67ee
+https://github.com/user-attachments/assets/3ec3ecca-cd93-45da-8d34-2da04b76ad40
 
